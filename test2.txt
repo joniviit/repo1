@@ -1,0 +1,12 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is CC14-423D
+
+ Directory of C:\Git\MyFolder
+
+19.05.2020  12.20    <DIR>          .
+19.05.2020  12.20    <DIR>          ..
+18.05.2020  13.50                 0 index.html
+18.05.2020  13.50                 8 test1.txt
+19.05.2020  12.20                 0 test2.txt
+               3 File(s)              8 bytes
+               2 Dir(s)   6ÿ166ÿ261ÿ760 bytes free
